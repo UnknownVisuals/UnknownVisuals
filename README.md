@@ -1,5 +1,7 @@
-# Unknown Visuals a.k.a Reynaldhi
-## As my username said you probably don't know me lol
+### Unknown Visuals a.k.a Reynaldhi
+> As my username said you probably don't know me lol
+
+<img src="https://github.com/UnknownVisuals/UnknownVisuals/blob/main/Unknown_Visuals.gif" width="1920" height="820"/>
 
 <!--
 **UnknownVisuals/UnknownVisuals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
