@@ -1,12 +1,23 @@
 ### <b>Unknown Visuals</b> a.k.a <b>Reynaldhi</b>
-> As my username said you probably don't know me lol
+> As my username said you probably don't know me lol.
 
 <img src="Unknown_Visuals.gif" width="100%" length="100%"/>
 
-- "Bang lari bang ada meteor!"
-- "Bang?"
-- "<i>Mada kono sekai wa</i>"
-- "Anjir <b>WIBU</b>"
+<details>
+<summary>Subtitle</summary>
+
+<empty></empty>
+
+>"Bang lari bang ada meteor!"
+
+>"Bang?"
+
+>"<i>Mada kono sekai wa</i>"
+
+>"Anjir <b>WIBU</b>"
+
+</details>
+
 
 
 <!--
