@@ -1,7 +1,13 @@
-### Unknown Visuals a.k.a Reynaldhi
+### <b>Unknown Visuals</b> a.k.a <b>Reynaldhi</b>
 > As my username said you probably don't know me lol
 
-<img src="https://github.com/UnknownVisuals/UnknownVisuals/blob/main/Unknown_Visuals.gif" width="1920" height="820"/>
+<img src="Unknown_Visuals.gif" width="100%" length="100%"/>
+
+- "Bang lari bang ada meteor!"
+- "Bang?"
+- "<i>Mada kono sekai wa</i>"
+- "Anjir <b>WIBU</b>"
+
 
 <!--
 **UnknownVisuals/UnknownVisuals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
